@@ -7,3 +7,4 @@
 
 <br>
 1. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/%EC%A0%95%EC%83%81%ED%98%81'>웹</a>
+2. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/c%EC%96%B8%EC%96%B4'>C언어</a>
