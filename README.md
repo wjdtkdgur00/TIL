@@ -7,8 +7,8 @@
 ```
 
 <br>
-1. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/c%EC%96%B8%EC%96%B4'>C언어</a><br>
-2. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/C%EC%96%B8%EC%96%B4%EC%A0%95%EC%98%AC%EB%AC%B8%EC%A0%9C'>C언어정올문제</a><br> 
-3. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/web'>웹</a><br>
-4. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/markdown'>마크다운</a><br>
-5. <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/DreamHack'>DreamHack</a><br>
+* <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/c%EC%96%B8%EC%96%B4'>C언어</a><br>
+* <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/C%EC%96%B8%EC%96%B4%EC%A0%95%EC%98%AC%EB%AC%B8%EC%A0%9C'>C언어정올문제</a><br> 
+* <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/web'>웹</a><br>
+* <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/markdown'>마크다운</a><br>
+* <a href ='https://github.com/wjdtkdgur00/TIL/tree/main/DreamHack'>DreamHack</a><br>
